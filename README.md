@@ -1,12 +1,13 @@
 # 💫 About Me:
-# Hello, I'm MorpheusDark<br><br>🎯 Owner of **Miyu Development**  <br>🛠️ Developer of Discord bots like **Miyu**, **Zabrina**, and **Mofi Radio**<br><br><br><br>🧠 About Me<br><br>- 💻 Passionate about building high-performance Discord bots<br>- 🎧 Focused on music, utility, and interaction-rich bot systems<br>- 📡 Exploring advanced bot UI with **Discord Components V2**<br><br><br><br> 
-🛠️ Projects<br><br>
+# Hello, I'm MorpheusDark<br><br>🎯 Owner of **Miyu Development**  <br>🛠️ Developer of Discord bots like **Miyu**, **Zabrina**, and **Mofi Radio**<br><br><br><br>🧠 About Me<br><br>- 💻 Passionate about building high-performance Discord bots<br>- 🎧 Focused on music, utility, and interaction-rich bot systems<br>- 📡 Exploring advanced bot UI with **Discord Components V2**<br><br>
+<br><br> 🛠️ Projects<br><br>
 | Bot Name       | Description                                           |
 |----------------|-------------------------------------------------------|
 | **Miyu**       | Multi-purpose music bot with rich utilities           |
 | **Zabrina**    | Music-focused bot with sleek UI & filters             |
-| **Mofi Radio** | Lo-fi radio bot streaming 24/7 high-quality music     |<br><br><br><br> 
-📫 Contact<br><br>- 📨 Reach me on Discord: `soulbinder9018`<br>- 🌐 Miyu Development: [Website](https://miyudevelopment.pages.dev/)<br><br>
+| **Mofi Radio** | Lo-fi radio bot streaming 24/7 high-quality music     |<br><br>
+
+<br><br> 📫 Contact<br><br>- 📨 Reach me on Discord: `soulbinder9018`<br>- 🌐 Miyu Development: [Website](https://miyudevelopment.pages.dev/)<br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TXQ3wnPsSj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morpheus_dark) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UClfYh_hWoPun9qVNmToUtXA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chillchatmc@gmail.com) 
