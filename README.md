@@ -2,18 +2,20 @@
 
 ### Hi, I'm **MorpheusDark**
 
-Owner of **Miyu Development**, developer of advanced Discord bots and full-stack tools focused on music, interaction, and smooth user experiences.
+Owner of Miyu Development — I build the bots, run the website, and manage the community Discord server.
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Do at **Miyu Development**
 
-* 💻 Build high-performance Discord bots in **Node.js**
-* 🎧 Specialize in **music systems**, audio pipelines, and UI-rich interactions
-* ⚙️ Work with modern tools like **Discord Components V2**, Lavalink, Sharding, and scalable web APIs
-* 📡 Experiment with automation, presence systems, and real-time services
+* 💻 Build full-stack, high-performance Discord bots and automation systems
+* 🎧 Develop advanced music systems with filters, queues, audio pipelines, and rich UI/UX
+* ⚙️ Create scalable backend services using Node.js, Web APIs, sharding, and modern Discord frameworks
+* 🧩 Design interaction-heavy features using **Discord Components V2**, custom UIs, and dynamic message systems
+* 📡 Work on real-time services: presence clients, WebSocket systems, multi-account handling, and automation tools
+* 🔧 Manage everything from infrastructure → backend → frontend → deployment
+* 🚀 Continuously build, maintain, and upgrade all projects under **Miyu Development**
 
----
 
 ## 🛠️ Featured Projects
 
@@ -88,7 +90,4 @@ Owner of **Miyu Development**, developer of advanced Discord bots and full-stack
 
 ---
 
-# 👀 Profile Visits
-
-[![](https://visitcount.itsvg.in/api?id=MorpheusDark7\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
