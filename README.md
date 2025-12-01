@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 ### Hi, I'm **MorpheusDark**
 
@@ -29,17 +29,17 @@ Owner of Miyu Development — I build the bots, run the website, and manage the 
 
 ## 📫 Contact
 
-* Discord: **`soulbinder9018`**
-* Website: [https://miyudevelopment.pages.dev/](https://miyudevelopment.pages.dev/)
+* Discord: **Morpheus Dark `[@soulbinder9018]`**
+* Website: [https://miyudevelopment.pages.dev/](https://miyudevelopment.online/)
 
 ---
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord\&logoColor=white)](https://discord.gg/TXQ3wnPsSj)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord\&logoColor=white)](https://discord.com/invite/TXQ3wnPsSj)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/morpheus_dark)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://youtube.com/@UClfYh_hWoPun9qVNmToUtXA)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:chillchatmc@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://www.youtube.com/@MiyuDevelopment)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:chillchat7293@gmail.com)
 
 ---
 
