@@ -1,31 +1,94 @@
-# 💫 About Me:
-### Hello, I'm MorpheusDark<br><br>🎯 Owner of **Miyu Development**  <br>🛠️ Developer of Discord bots like **Miyu**, **Zabrina**, and **Mofi Radio**<br><br><br><br>🧠 About Me<br><br>- 💻 Passionate about building high-performance Discord bots<br>- 🎧 Focused on music, utility, and interaction-rich bot systems<br>- 📡 Exploring advanced bot UI with **Discord Components V2**<br><br>
-<br><br> 🛠️ Projects<br><br>
-| Bot Name       | Description                                           |
-|----------------|-------------------------------------------------------|
-| **Miyu**       | Multi-purpose music bot with rich utilities           |
-| **Zabrina**    | Music-focused bot with sleek UI & filters             |
-| **Mofi Radio** | Lo-fi radio bot streaming 24/7 high-quality music     |<br><br>
+# 💫 About Me
 
-<br><br># 📫 Contact<br><br>- 📨 Reach me on Discord: `soulbinder9018`<br>- 🌐 Miyu Development: [Website](https://miyudevelopment.pages.dev/)<br><br>
+### Hi, I'm **MorpheusDark**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/TXQ3wnPsSj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/morpheus_dark) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UClfYh_hWoPun9qVNmToUtXA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chillchatmc@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MorpheusDark7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MorpheusDark7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MorpheusDark7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MorpheusDark7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Owner of **Miyu Development**, developer of advanced Discord bots and full-stack tools focused on music, interaction, and smooth user experiences.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MorpheusDark7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Do
+
+* 💻 Build high-performance Discord bots in **Node.js**
+* 🎧 Specialize in **music systems**, audio pipelines, and UI-rich interactions
+* ⚙️ Work with modern tools like **Discord Components V2**, Lavalink, Sharding, and scalable web APIs
+* 📡 Experiment with automation, presence systems, and real-time services
+
+---
+
+## 🛠️ Featured Projects
+
+| Bot            | Description                                                |
+| -------------- | ---------------------------------------------------------- |
+| **Miyu**       | Multi-purpose bot with advanced music and utility features |
+| **Zabrina**    | Music bot with filters, effects, and polished UI           |
+| **Mofi Radio** | 24/7 lo-fi radio bot streaming high-quality audio          |
+
+---
+
+## 📫 Contact
+
+* Discord: **`soulbinder9018`**
+* Website: [https://miyudevelopment.pages.dev/](https://miyudevelopment.pages.dev/)
+
+---
+
+## 🌐 Socials
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord\&logoColor=white)](https://discord.gg/TXQ3wnPsSj)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/morpheus_dark)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube\&logoColor=white)](https://youtube.com/@UClfYh_hWoPun9qVNmToUtXA)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:chillchatmc@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+
+### Tools & Frameworks
+
+![Express.js](https://img.shields.io/badge/Express.js-404d59?logo=express\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232a?logo=react\&logoColor=61DAFB)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare\&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MorpheusDark7\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=MorpheusDark7\&theme=dark\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MorpheusDark7\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
+
+---
+
+# 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=MorpheusDark7\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+
+---
+
+# 👀 Profile Visits
+
+[![](https://visitcount.itsvg.in/api?id=MorpheusDark7\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
