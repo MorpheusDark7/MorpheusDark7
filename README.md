@@ -47,12 +47,15 @@ Owner of Miyu Development — I build the bots, run the website, and manage the 
 
 ### Languages & Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 ### Databases
 
